@@ -49,7 +49,7 @@ title: 'Play, Learn & Compete in Brisbane'
 </section>
 
 <section class="px-4 max-w-3xl">
-  <h2 class="text-center text-xl md:text-2xl font-semibold mb-6"><span aria-hidden="true">🗓️</span> 5 Meetups a Week</h2>
+  <h2 class="text-center text-xl md:text-2xl font-semibold mb-6"><span aria-hidden="true">🗓️</span> 6 Meetups a Week</h2>
   <p class="text-center text-base  md:text-lg mb-6">
     We have meetups every day of the week except Mondays. There are always more meeting times and locations in the works.
   </p>
