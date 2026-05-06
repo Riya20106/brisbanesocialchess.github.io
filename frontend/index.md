@@ -64,16 +64,16 @@ title: 'Play, Learn & Compete in Brisbane'
         </tr>
       </thead>
       <tbody>
-          <tr class="border-t border-gray-500">
+        <tr class="border-t border-gray-500">
           <td class="px-4 py-2">Tuesday</td>
           <td class="px-4 py-2">12:30-3:30 PM</td>
-          <td class="px-4 py-2 font-semibold">Ambassador Specialty Coffee </td>
+          <td class="px-4 py-2 font-semibold">Ambassador Specialty Coffee</td>
           <td class="px-4 py-2">
-            <a href="https://maps.app.goo.gl/boV9G6r8khGqXJhw9"
+            <a href="https://www.google.com/maps/search/?api=1&query=Ambassador+Specialty+Coffee%2C+Shop+K1%2F9+Sherwood+Rd%2C+Toowong+QLD+4066"
               target="_blank"
               rel="noopener noreferrer"
               class="text-[#a09de1] hover:text-[#b7b4ed] underline">
-             Shop K1/9 Sherwood Rd, Toowong QLD 4066
+              Shop K1/9 Sherwood Rd, Toowong QLD 4066
             </a>
           </td>
         </tr>
